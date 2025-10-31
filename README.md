@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Dragonfly1907/Dragonfly1907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
